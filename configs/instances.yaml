@@ -1,0 +1,3624 @@
+metadata:
+  master_seed: 42
+  simulation_seed: 2026
+  total_benchmark_instances: 395
+  classical_instances_count: 206
+  generated_instances_count: 189
+  simulation_instances_count: 30
+benchmark_instances:
+- id: scholl_arcus1_c3786
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 3786
+  optimal_stations: 21
+  best_known_stations: 21
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c3985
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 3985
+  optimal_stations: 20
+  best_known_stations: 20
+  is_optimum_proven: true
+  cell: null
+- &id021
+  id: scholl_arcus1_c4206
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 4206
+  optimal_stations: 19
+  best_known_stations: 19
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c4454
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 4454
+  optimal_stations: 18
+  best_known_stations: 18
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c4732
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 4732
+  optimal_stations: 17
+  best_known_stations: 17
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c5048
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 5048
+  optimal_stations: 16
+  best_known_stations: 16
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c5408
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 5408
+  optimal_stations: 15
+  best_known_stations: 15
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c5824
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 5824
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c5853
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 5853
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c6309
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 6309
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c6842
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 6842
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c6883
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 6883
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c7571
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 7571
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c8412
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 8412
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus1_c8898
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 8898
+  optimal_stations: 9
+  best_known_stations: 9
+  is_optimum_proven: true
+  cell: null
+- &id022
+  id: scholl_arcus1_c10816
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC83.IN2
+  num_tasks: 83
+  cycle_time: 10816
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_bowman_c20
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BOWMAN8.IN2
+  num_tasks: 8
+  cycle_time: 20
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: null
+- id: scholl_buxey_c27
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BUXEY.IN2
+  num_tasks: 29
+  cycle_time: 27
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: null
+- id: scholl_buxey_c30
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BUXEY.IN2
+  num_tasks: 29
+  cycle_time: 30
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: null
+- id: scholl_buxey_c33
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BUXEY.IN2
+  num_tasks: 29
+  cycle_time: 33
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: null
+- id: scholl_buxey_c36
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BUXEY.IN2
+  num_tasks: 29
+  cycle_time: 36
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: null
+- id: scholl_buxey_c41
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BUXEY.IN2
+  num_tasks: 29
+  cycle_time: 41
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_buxey_c47
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BUXEY.IN2
+  num_tasks: 29
+  cycle_time: 47
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: null
+- id: scholl_buxey_c54
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BUXEY.IN2
+  num_tasks: 29
+  cycle_time: 54
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: null
+- id: scholl_gunther_c41
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/GUNTHER.IN2
+  num_tasks: 35
+  cycle_time: 41
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: null
+- id: scholl_gunther_c44
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/GUNTHER.IN2
+  num_tasks: 35
+  cycle_time: 44
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: null
+- id: scholl_gunther_c49
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/GUNTHER.IN2
+  num_tasks: 35
+  cycle_time: 49
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: null
+- id: scholl_gunther_c54
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/GUNTHER.IN2
+  num_tasks: 35
+  cycle_time: 54
+  optimal_stations: 9
+  best_known_stations: 9
+  is_optimum_proven: true
+  cell: null
+- id: scholl_gunther_c61
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/GUNTHER.IN2
+  num_tasks: 35
+  cycle_time: 61
+  optimal_stations: 9
+  best_known_stations: 9
+  is_optimum_proven: true
+  cell: null
+- id: scholl_gunther_c69
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/GUNTHER.IN2
+  num_tasks: 35
+  cycle_time: 69
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_gunther_c81
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/GUNTHER.IN2
+  num_tasks: 35
+  cycle_time: 81
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: null
+- id: scholl_hahn_c2004
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/HAHN.IN2
+  num_tasks: 53
+  cycle_time: 2004
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_hahn_c2338
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/HAHN.IN2
+  num_tasks: 53
+  cycle_time: 2338
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: null
+- id: scholl_hahn_c2806
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/HAHN.IN2
+  num_tasks: 53
+  cycle_time: 2806
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: null
+- id: scholl_hahn_c3507
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/HAHN.IN2
+  num_tasks: 53
+  cycle_time: 3507
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: null
+- id: scholl_hahn_c4676
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/HAHN.IN2
+  num_tasks: 53
+  cycle_time: 4676
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: null
+- id: scholl_heskiaoff_c138
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/HESKIA.IN2
+  num_tasks: 28
+  cycle_time: 138
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_heskiaoff_c205
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/HESKIA.IN2
+  num_tasks: 28
+  cycle_time: 205
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: null
+- id: scholl_heskiaoff_c216
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/HESKIA.IN2
+  num_tasks: 28
+  cycle_time: 216
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: null
+- id: scholl_heskiaoff_c256
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/HESKIA.IN2
+  num_tasks: 28
+  cycle_time: 256
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: null
+- id: scholl_heskiaoff_c324
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/HESKIA.IN2
+  num_tasks: 28
+  cycle_time: 324
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: null
+- id: scholl_heskiaoff_c342
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/HESKIA.IN2
+  num_tasks: 28
+  cycle_time: 342
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: null
+- id: scholl_jackson_c7
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/JACKSON.IN2
+  num_tasks: 11
+  cycle_time: 7
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- &id001
+  id: scholl_jackson_c9
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/JACKSON.IN2
+  num_tasks: 11
+  cycle_time: 9
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: null
+- id: scholl_jackson_c10
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/JACKSON.IN2
+  num_tasks: 11
+  cycle_time: 10
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: null
+- id: scholl_jackson_c13
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/JACKSON.IN2
+  num_tasks: 11
+  cycle_time: 13
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: null
+- id: scholl_jackson_c14
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/JACKSON.IN2
+  num_tasks: 11
+  cycle_time: 14
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: null
+- id: scholl_jackson_c21
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/JACKSON.IN2
+  num_tasks: 11
+  cycle_time: 21
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: null
+- &id002
+  id: scholl_jaeschke_c6
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/JAESCHKE.IN2
+  num_tasks: 9
+  cycle_time: 6
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_jaeschke_c7
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/JAESCHKE.IN2
+  num_tasks: 9
+  cycle_time: 7
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: null
+- id: scholl_jaeschke_c8
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/JAESCHKE.IN2
+  num_tasks: 9
+  cycle_time: 8
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: null
+- id: scholl_jaeschke_c10
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/JAESCHKE.IN2
+  num_tasks: 9
+  cycle_time: 10
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: null
+- id: scholl_jaeschke_c18
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/JAESCHKE.IN2
+  num_tasks: 9
+  cycle_time: 18
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: null
+- id: scholl_kilbridge_c56
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/KILBRID.IN2
+  num_tasks: 45
+  cycle_time: 56
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: null
+- &id011
+  id: scholl_kilbridge_c57
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/KILBRID.IN2
+  num_tasks: 45
+  cycle_time: 57
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: null
+- id: scholl_kilbridge_c62
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/KILBRID.IN2
+  num_tasks: 45
+  cycle_time: 62
+  optimal_stations: 9
+  best_known_stations: 9
+  is_optimum_proven: true
+  cell: null
+- id: scholl_kilbridge_c69
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/KILBRID.IN2
+  num_tasks: 45
+  cycle_time: 69
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_kilbridge_c79
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/KILBRID.IN2
+  num_tasks: 45
+  cycle_time: 79
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: null
+- &id012
+  id: scholl_kilbridge_c92
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/KILBRID.IN2
+  num_tasks: 45
+  cycle_time: 92
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: null
+- id: scholl_kilbridge_c110
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/KILBRID.IN2
+  num_tasks: 45
+  cycle_time: 110
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: null
+- id: scholl_kilbridge_c111
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/KILBRID.IN2
+  num_tasks: 45
+  cycle_time: 111
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: null
+- id: scholl_kilbridge_c138
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/KILBRID.IN2
+  num_tasks: 45
+  cycle_time: 138
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: null
+- id: scholl_kilbridge_c184
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/KILBRID.IN2
+  num_tasks: 45
+  cycle_time: 184
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz1_c1414
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ1.IN2
+  num_tasks: 32
+  cycle_time: 1414
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz1_c1572
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ1.IN2
+  num_tasks: 32
+  cycle_time: 1572
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz1_c1768
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ1.IN2
+  num_tasks: 32
+  cycle_time: 1768
+  optimal_stations: 9
+  best_known_stations: 9
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz1_c2020
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ1.IN2
+  num_tasks: 32
+  cycle_time: 2020
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz1_c2357
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ1.IN2
+  num_tasks: 32
+  cycle_time: 2357
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz1_c2828
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ1.IN2
+  num_tasks: 32
+  cycle_time: 2828
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz2_c11
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ2.IN2
+  num_tasks: 89
+  cycle_time: 11
+  optimal_stations: 49
+  best_known_stations: 49
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz2_c12
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ2.IN2
+  num_tasks: 89
+  cycle_time: 12
+  optimal_stations: 44
+  best_known_stations: 44
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz2_c13
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ2.IN2
+  num_tasks: 89
+  cycle_time: 13
+  optimal_stations: 40
+  best_known_stations: 40
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz2_c14
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ2.IN2
+  num_tasks: 89
+  cycle_time: 14
+  optimal_stations: 37
+  best_known_stations: 37
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz2_c15
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ2.IN2
+  num_tasks: 89
+  cycle_time: 15
+  optimal_stations: 34
+  best_known_stations: 34
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz2_c16
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ2.IN2
+  num_tasks: 89
+  cycle_time: 16
+  optimal_stations: 31
+  best_known_stations: 31
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz2_c17
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ2.IN2
+  num_tasks: 89
+  cycle_time: 17
+  optimal_stations: 29
+  best_known_stations: 29
+  is_optimum_proven: true
+  cell: null
+- &id023
+  id: scholl_lutz2_c18
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ2.IN2
+  num_tasks: 89
+  cycle_time: 18
+  optimal_stations: 28
+  best_known_stations: 28
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz2_c19
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ2.IN2
+  num_tasks: 89
+  cycle_time: 19
+  optimal_stations: 26
+  best_known_stations: 26
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz2_c20
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ2.IN2
+  num_tasks: 89
+  cycle_time: 20
+  optimal_stations: 25
+  best_known_stations: 25
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz2_c21
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ2.IN2
+  num_tasks: 89
+  cycle_time: 21
+  optimal_stations: 24
+  best_known_stations: 24
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz3_c75
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 75
+  optimal_stations: 23
+  best_known_stations: 23
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz3_c79
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 79
+  optimal_stations: 22
+  best_known_stations: 22
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz3_c83
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 83
+  optimal_stations: 21
+  best_known_stations: 21
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz3_c87
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 87
+  optimal_stations: 20
+  best_known_stations: 20
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz3_c92
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 92
+  optimal_stations: 19
+  best_known_stations: 19
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz3_c97
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 97
+  optimal_stations: 18
+  best_known_stations: 18
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz3_c103
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 103
+  optimal_stations: 17
+  best_known_stations: 17
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz3_c110
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 110
+  optimal_stations: 15
+  best_known_stations: 15
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz3_c118
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 118
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: null
+- &id024
+  id: scholl_lutz3_c127
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 127
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz3_c137
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 137
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: null
+- id: scholl_lutz3_c150
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/LUTZ3.IN2
+  num_tasks: 89
+  cycle_time: 150
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mansoor_c48
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MANSOOR.IN2
+  num_tasks: 11
+  cycle_time: 48
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mansoor_c62
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MANSOOR.IN2
+  num_tasks: 11
+  cycle_time: 62
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mansoor_c94
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MANSOOR.IN2
+  num_tasks: 11
+  cycle_time: 94
+  optimal_stations: 2
+  best_known_stations: 2
+  is_optimum_proven: true
+  cell: null
+- &id003
+  id: scholl_mertens_c6
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MERTENS.IN2
+  num_tasks: 7
+  cycle_time: 6
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mertens_c7
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MERTENS.IN2
+  num_tasks: 7
+  cycle_time: 7
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mertens_c8
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MERTENS.IN2
+  num_tasks: 7
+  cycle_time: 8
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mertens_c10
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MERTENS.IN2
+  num_tasks: 7
+  cycle_time: 10
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mertens_c15
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MERTENS.IN2
+  num_tasks: 7
+  cycle_time: 15
+  optimal_stations: 2
+  best_known_stations: 2
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mertens_c18
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MERTENS.IN2
+  num_tasks: 7
+  cycle_time: 18
+  optimal_stations: 2
+  best_known_stations: 2
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mitchell_c14
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MITCHELL.IN2
+  num_tasks: 21
+  cycle_time: 14
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mitchell_c15
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MITCHELL.IN2
+  num_tasks: 21
+  cycle_time: 15
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mitchell_c21
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MITCHELL.IN2
+  num_tasks: 21
+  cycle_time: 21
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mitchell_c26
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MITCHELL.IN2
+  num_tasks: 21
+  cycle_time: 26
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mitchell_c35
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MITCHELL.IN2
+  num_tasks: 21
+  cycle_time: 35
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mitchell_c39
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MITCHELL.IN2
+  num_tasks: 21
+  cycle_time: 39
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c176
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 176
+  optimal_stations: 25
+  best_known_stations: 25
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c183
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 183
+  optimal_stations: 24
+  best_known_stations: 24
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c192
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 192
+  optimal_stations: 23
+  best_known_stations: 23
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c201
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 201
+  optimal_stations: 22
+  best_known_stations: 22
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c211
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 211
+  optimal_stations: 21
+  best_known_stations: 21
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c222
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 222
+  optimal_stations: 20
+  best_known_stations: 20
+  is_optimum_proven: true
+  cell: null
+- &id025
+  id: scholl_mukherje_c234
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 234
+  optimal_stations: 19
+  best_known_stations: 19
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c248
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 248
+  optimal_stations: 18
+  best_known_stations: 18
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c263
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 263
+  optimal_stations: 17
+  best_known_stations: 17
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c281
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 281
+  optimal_stations: 16
+  best_known_stations: 16
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c301
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 301
+  optimal_stations: 15
+  best_known_stations: 15
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c324
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 324
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: null
+- id: scholl_mukherje_c351
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/MUKHERJE.IN2
+  num_tasks: 94
+  cycle_time: 351
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: null
+- id: scholl_roszieg_c14
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ROSZIEG.IN2
+  num_tasks: 25
+  cycle_time: 14
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: null
+- id: scholl_roszieg_c16
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ROSZIEG.IN2
+  num_tasks: 25
+  cycle_time: 16
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_roszieg_c18
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ROSZIEG.IN2
+  num_tasks: 25
+  cycle_time: 18
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_roszieg_c21
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ROSZIEG.IN2
+  num_tasks: 25
+  cycle_time: 21
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: null
+- id: scholl_roszieg_c25
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ROSZIEG.IN2
+  num_tasks: 25
+  cycle_time: 25
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: null
+- id: scholl_roszieg_c32
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ROSZIEG.IN2
+  num_tasks: 25
+  cycle_time: 32
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: null
+- id: scholl_sawyer_c25
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SAWYER30.IN2
+  num_tasks: 30
+  cycle_time: 25
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: null
+- id: scholl_sawyer_c27
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SAWYER30.IN2
+  num_tasks: 30
+  cycle_time: 27
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: null
+- id: scholl_sawyer_c30
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SAWYER30.IN2
+  num_tasks: 30
+  cycle_time: 30
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: null
+- &id013
+  id: scholl_sawyer_c33
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SAWYER30.IN2
+  num_tasks: 30
+  cycle_time: 33
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: null
+- id: scholl_sawyer_c36
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SAWYER30.IN2
+  num_tasks: 30
+  cycle_time: 36
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: null
+- id: scholl_sawyer_c41
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SAWYER30.IN2
+  num_tasks: 30
+  cycle_time: 41
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_sawyer_c47
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SAWYER30.IN2
+  num_tasks: 30
+  cycle_time: 47
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: null
+- id: scholl_sawyer_c54
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SAWYER30.IN2
+  num_tasks: 30
+  cycle_time: 54
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: null
+- id: scholl_sawyer_c75
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SAWYER30.IN2
+  num_tasks: 30
+  cycle_time: 75
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c160
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 160
+  optimal_stations: 23
+  best_known_stations: 23
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c168
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 168
+  optimal_stations: 22
+  best_known_stations: 22
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c176
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 176
+  optimal_stations: 21
+  best_known_stations: 21
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c185
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 185
+  optimal_stations: 20
+  best_known_stations: 20
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c195
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 195
+  optimal_stations: 19
+  best_known_stations: 19
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c207
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 207
+  optimal_stations: 18
+  best_known_stations: 18
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c220
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 220
+  optimal_stations: 17
+  best_known_stations: 17
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c234
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 234
+  optimal_stations: 16
+  best_known_stations: 16
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c251
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 251
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c270
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 270
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c293
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 293
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c320
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 320
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c364
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 364
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c410
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 410
+  optimal_stations: 9
+  best_known_stations: 9
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c468
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 468
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_tonge_c527
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/TONGE70.IN2
+  num_tasks: 70
+  cycle_time: 527
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c54
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 54
+  optimal_stations: 31
+  best_known_stations: 31
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c56
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 56
+  optimal_stations: 29
+  best_known_stations: 29
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c58
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 58
+  optimal_stations: 29
+  best_known_stations: 29
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c60
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 60
+  optimal_stations: 27
+  best_known_stations: 27
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c62
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 62
+  optimal_stations: 27
+  best_known_stations: 27
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c65
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 65
+  optimal_stations: 25
+  best_known_stations: 25
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c68
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 68
+  optimal_stations: 24
+  best_known_stations: 24
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c71
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 71
+  optimal_stations: 23
+  best_known_stations: 23
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c74
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 74
+  optimal_stations: 22
+  best_known_stations: 22
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c78
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 78
+  optimal_stations: 21
+  best_known_stations: 21
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c82
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 82
+  optimal_stations: 20
+  best_known_stations: 20
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c86
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 86
+  optimal_stations: 19
+  best_known_stations: 19
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c92
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 92
+  optimal_stations: 17
+  best_known_stations: 17
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c97
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 97
+  optimal_stations: 17
+  best_known_stations: 17
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c104
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 104
+  optimal_stations: 15
+  best_known_stations: 15
+  is_optimum_proven: true
+  cell: null
+- id: scholl_warnecke_c111
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WARNECKE.IN2
+  num_tasks: 58
+  cycle_time: 111
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c28
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 28
+  optimal_stations: 63
+  best_known_stations: 63
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c29
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 29
+  optimal_stations: 63
+  best_known_stations: 63
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c30
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 30
+  optimal_stations: 62
+  best_known_stations: 62
+  is_optimum_proven: true
+  cell: null
+- &id026
+  id: scholl_wee-mag_c31
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 31
+  optimal_stations: 62
+  best_known_stations: 62
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c32
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 32
+  optimal_stations: 61
+  best_known_stations: 61
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c33
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 33
+  optimal_stations: 61
+  best_known_stations: 61
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c34
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 34
+  optimal_stations: 61
+  best_known_stations: 61
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c35
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 35
+  optimal_stations: 60
+  best_known_stations: 60
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c36
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 36
+  optimal_stations: 60
+  best_known_stations: 60
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c37
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 37
+  optimal_stations: 60
+  best_known_stations: 60
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c38
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 38
+  optimal_stations: 60
+  best_known_stations: 60
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c39
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 39
+  optimal_stations: 60
+  best_known_stations: 60
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c40
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 40
+  optimal_stations: 60
+  best_known_stations: 60
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c41
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 41
+  optimal_stations: 59
+  best_known_stations: 59
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c42
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 42
+  optimal_stations: 55
+  best_known_stations: 55
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c43
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 43
+  optimal_stations: 50
+  best_known_stations: 50
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c45
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 45
+  optimal_stations: 38
+  best_known_stations: 38
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c46
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 46
+  optimal_stations: 34
+  best_known_stations: 34
+  is_optimum_proven: true
+  cell: null
+- &id027
+  id: scholl_wee-mag_c47
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 47
+  optimal_stations: null
+  best_known_stations: 32
+  is_optimum_proven: false
+  cell: null
+- id: scholl_wee-mag_c49
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 49
+  optimal_stations: 32
+  best_known_stations: 32
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c50
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 50
+  optimal_stations: 32
+  best_known_stations: 32
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c52
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 52
+  optimal_stations: 31
+  best_known_stations: 31
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c54
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 54
+  optimal_stations: 31
+  best_known_stations: 31
+  is_optimum_proven: true
+  cell: null
+- id: scholl_wee-mag_c56
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/WEE-MAG.IN2
+  num_tasks: 75
+  cycle_time: 56
+  optimal_stations: 30
+  best_known_stations: 30
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus2_c6837
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC111.IN2
+  num_tasks: 111
+  cycle_time: 6837
+  optimal_stations: 23
+  best_known_stations: 23
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus2_c7162
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC111.IN2
+  num_tasks: 111
+  cycle_time: 7162
+  optimal_stations: 22
+  best_known_stations: 22
+  is_optimum_proven: true
+  cell: null
+- id: scholl_arcus2_c11378
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/ARC111.IN2
+  num_tasks: 111
+  cycle_time: 11378
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: null
+- id: scholl_barthol2_c109
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BARTHOL2.IN2
+  num_tasks: 148
+  cycle_time: 109
+  optimal_stations: 39
+  best_known_stations: 39
+  is_optimum_proven: true
+  cell: null
+- id: scholl_barthol2_c142
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BARTHOL2.IN2
+  num_tasks: 148
+  cycle_time: 142
+  optimal_stations: 30
+  best_known_stations: 30
+  is_optimum_proven: true
+  cell: null
+- id: scholl_barthol2_c170
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BARTHOL2.IN2
+  num_tasks: 148
+  cycle_time: 170
+  optimal_stations: 25
+  best_known_stations: 25
+  is_optimum_proven: true
+  cell: null
+- id: scholl_barthold_c626
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BARTHOLD.IN2
+  num_tasks: 148
+  cycle_time: 626
+  optimal_stations: 9
+  best_known_stations: 9
+  is_optimum_proven: true
+  cell: null
+- id: scholl_barthold_c705
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/BARTHOLD.IN2
+  num_tasks: 148
+  cycle_time: 705
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: null
+- id: scholl_scholl_c1483
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SCHOLL.IN2
+  num_tasks: 297
+  cycle_time: 1483
+  optimal_stations: 47
+  best_known_stations: 47
+  is_optimum_proven: true
+  cell: null
+- id: scholl_scholl_c1584
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SCHOLL.IN2
+  num_tasks: 297
+  cycle_time: 1584
+  optimal_stations: 44
+  best_known_stations: 44
+  is_optimum_proven: true
+  cell: null
+- id: scholl_scholl_c1620
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SCHOLL.IN2
+  num_tasks: 297
+  cycle_time: 1620
+  optimal_stations: 44
+  best_known_stations: 44
+  is_optimum_proven: true
+  cell: null
+- id: scholl_scholl_c1991
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SCHOLL.IN2
+  num_tasks: 297
+  cycle_time: 1991
+  optimal_stations: 35
+  best_known_stations: 35
+  is_optimum_proven: true
+  cell: null
+- id: scholl_scholl_c2322
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SCHOLL.IN2
+  num_tasks: 297
+  cycle_time: 2322
+  optimal_stations: 30
+  best_known_stations: 30
+  is_optimum_proven: true
+  cell: null
+- id: scholl_scholl_c2402
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SCHOLL.IN2
+  num_tasks: 297
+  cycle_time: 2402
+  optimal_stations: 29
+  best_known_stations: 29
+  is_optimum_proven: true
+  cell: null
+- id: scholl_scholl_c2787
+  stratum: classical
+  source_file: data/raw/scholl1993/precedence graphs/SCHOLL.IN2
+  num_tasks: 297
+  cycle_time: 2787
+  optimal_stations: 25
+  best_known_stations: 25
+  is_optimum_proven: true
+  cell: null
+- &id004
+  id: instance_n=20_46
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_46.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: BN_0.2_bimodal
+- &id005
+  id: instance_n=20_51
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_51.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: BN_0.2_bimodal
+- id: instance_n=20_64
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_64.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: BN_0.2_bimodal
+- id: instance_n=20_2
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_2.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: BN_0.2_peak at the bottom
+- id: instance_n=20_521
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_521.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: BN_0.2_peak at the bottom
+- id: instance_n=20_522
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_522.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: BN_0.2_peak at the bottom
+- id: instance_n=20_19
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_19.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: BN_0.2_peak in the middle
+- id: instance_n=20_30
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_30.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 16
+  best_known_stations: 16
+  is_optimum_proven: true
+  cell: BN_0.2_peak in the middle
+- id: instance_n=20_34
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_34.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: BN_0.2_peak in the middle
+- &id006
+  id: instance_n=20_117
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_117.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: BN_0.6_bimodal
+- id: instance_n=20_127
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_127.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: BN_0.6_bimodal
+- id: instance_n=20_139
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_139.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: BN_0.6_bimodal
+- id: instance_n=20_70
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_70.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: BN_0.6_peak at the bottom
+- id: instance_n=20_83
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_83.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: BN_0.6_peak at the bottom
+- id: instance_n=20_84
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_84.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: BN_0.6_peak at the bottom
+- id: instance_n=20_92
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_92.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: BN_0.6_peak in the middle
+- id: instance_n=20_102
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_102.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: BN_0.6_peak in the middle
+- id: instance_n=20_104
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_104.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: BN_0.6_peak in the middle
+- id: instance_n=20_206
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_206.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: CH_0.2_bimodal
+- id: instance_n=20_209
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_209.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: CH_0.2_bimodal
+- id: instance_n=20_213
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_213.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: CH_0.2_bimodal
+- id: instance_n=20_148
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_148.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: CH_0.2_peak at the bottom
+- id: instance_n=20_150
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_150.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: CH_0.2_peak at the bottom
+- id: instance_n=20_163
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_163.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: CH_0.2_peak at the bottom
+- &id007
+  id: instance_n=20_170
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_170.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: CH_0.2_peak in the middle
+- id: instance_n=20_176
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_176.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: CH_0.2_peak in the middle
+- id: instance_n=20_185
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_185.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 15
+  best_known_stations: 15
+  is_optimum_proven: true
+  cell: CH_0.2_peak in the middle
+- id: instance_n=20_274
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_274.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: CH_0.6_bimodal
+- &id008
+  id: instance_n=20_277
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_277.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: CH_0.6_bimodal
+- id: instance_n=20_281
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_281.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: CH_0.6_bimodal
+- id: instance_n=20_226
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_226.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: CH_0.6_peak at the bottom
+- id: instance_n=20_231
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_231.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: CH_0.6_peak at the bottom
+- id: instance_n=20_238
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_238.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: CH_0.6_peak at the bottom
+- id: instance_n=20_243
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_243.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: CH_0.6_peak in the middle
+- id: instance_n=20_255
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_255.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: CH_0.6_peak in the middle
+- id: instance_n=20_257
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_257.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: CH_0.6_peak in the middle
+- id: instance_n=20_351
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_351.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: MIXED_0.2_bimodal
+- id: instance_n=20_360
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_360.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: MIXED_0.2_bimodal
+- id: instance_n=20_361
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_361.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: MIXED_0.2_bimodal
+- id: instance_n=20_296
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_296.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak at the bottom
+- id: instance_n=20_297
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_297.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak at the bottom
+- &id009
+  id: instance_n=20_311
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_311.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak at the bottom
+- id: instance_n=20_319
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_319.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak in the middle
+- id: instance_n=20_320
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_320.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak in the middle
+- id: instance_n=20_335
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_335.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak in the middle
+- id: instance_n=20_434
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_434.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: MIXED_0.6_bimodal
+- id: instance_n=20_435
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_435.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: MIXED_0.6_bimodal
+- id: instance_n=20_439
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_439.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: MIXED_0.6_bimodal
+- id: instance_n=20_372
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_372.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak at the bottom
+- id: instance_n=20_382
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_382.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 4
+  best_known_stations: 4
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak at the bottom
+- id: instance_n=20_385
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_385.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak at the bottom
+- id: instance_n=20_391
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_391.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak in the middle
+- id: instance_n=20_402
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_402.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak in the middle
+- id: instance_n=20_404
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_404.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak in the middle
+- id: instance_n=20_493
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_493.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: MIXED_0.9_bimodal
+- id: instance_n=20_501
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_501.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: MIXED_0.9_bimodal
+- id: instance_n=20_507
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_507.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 5
+  best_known_stations: 5
+  is_optimum_proven: true
+  cell: MIXED_0.9_bimodal
+- id: instance_n=20_442
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_442.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak at the bottom
+- id: instance_n=20_454
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_454.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak at the bottom
+- id: instance_n=20_460
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_460.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 3
+  best_known_stations: 3
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak at the bottom
+- id: instance_n=20_479
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_479.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak in the middle
+- id: instance_n=20_480
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_480.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak in the middle
+- &id010
+  id: instance_n=20_490
+  stratum: generated
+  source_file: data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_490.alb
+  num_tasks: 20
+  cycle_time: 1000
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak in the middle
+- id: instance_n=50_58
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_58.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: BN_0.2_bimodal
+- id: instance_n=50_66
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_66.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: BN_0.2_bimodal
+- id: instance_n=50_69
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_69.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: BN_0.2_bimodal
+- id: instance_n=50_6
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_6.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: BN_0.2_peak at the bottom
+- id: instance_n=50_11
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_11.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: BN_0.2_peak at the bottom
+- id: instance_n=50_24
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_24.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: BN_0.2_peak at the bottom
+- id: instance_n=50_26
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_26.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 27
+  best_known_stations: 27
+  is_optimum_proven: true
+  cell: BN_0.2_peak in the middle
+- id: instance_n=50_46
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_46.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: BN_0.2_peak in the middle
+- id: instance_n=50_48
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_48.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: BN_0.2_peak in the middle
+- id: instance_n=50_127
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_127.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: BN_0.6_bimodal
+- id: instance_n=50_133
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_133.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: BN_0.6_bimodal
+- id: instance_n=50_146
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_146.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: BN_0.6_bimodal
+- id: instance_n=50_79
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_79.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: BN_0.6_peak at the bottom
+- id: instance_n=50_85
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_85.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: BN_0.6_peak at the bottom
+- id: instance_n=50_91
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_91.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: BN_0.6_peak at the bottom
+- &id014
+  id: instance_n=50_117
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_117.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: BN_0.6_peak in the middle
+- id: instance_n=50_119
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_119.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 25
+  best_known_stations: 25
+  is_optimum_proven: true
+  cell: BN_0.6_peak in the middle
+- id: instance_n=50_124
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_124.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: BN_0.6_peak in the middle
+- &id015
+  id: instance_n=50_209
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_209.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: CH_0.2_bimodal
+- id: instance_n=50_210
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_210.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: CH_0.2_bimodal
+- id: instance_n=50_220
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_220.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: CH_0.2_bimodal
+- id: instance_n=50_151
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_151.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: CH_0.2_peak at the bottom
+- id: instance_n=50_153
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_153.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: CH_0.2_peak at the bottom
+- id: instance_n=50_175
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_175.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: CH_0.2_peak at the bottom
+- id: instance_n=50_187
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_187.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: CH_0.2_peak in the middle
+- id: instance_n=50_192
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_192.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: CH_0.2_peak in the middle
+- id: instance_n=50_193
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_193.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 28
+  best_known_stations: 28
+  is_optimum_proven: true
+  cell: CH_0.2_peak in the middle
+- &id016
+  id: instance_n=50_279
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_279.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: CH_0.6_bimodal
+- id: instance_n=50_287
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_287.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: CH_0.6_bimodal
+- id: instance_n=50_298
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_298.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: CH_0.6_bimodal
+- id: instance_n=50_230
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_230.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: CH_0.6_peak at the bottom
+- id: instance_n=50_236
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_236.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: CH_0.6_peak at the bottom
+- id: instance_n=50_237
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_237.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: CH_0.6_peak at the bottom
+- &id017
+  id: instance_n=50_257
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_257.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: CH_0.6_peak in the middle
+- id: instance_n=50_266
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_266.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 29
+  best_known_stations: 29
+  is_optimum_proven: true
+  cell: CH_0.6_peak in the middle
+- id: instance_n=50_267
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_267.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: CH_0.6_peak in the middle
+- id: instance_n=50_353
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_353.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: MIXED_0.2_bimodal
+- id: instance_n=50_359
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_359.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: MIXED_0.2_bimodal
+- id: instance_n=50_373
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_373.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: MIXED_0.2_bimodal
+- id: instance_n=50_309
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_309.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak at the bottom
+- id: instance_n=50_323
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_323.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak at the bottom
+- id: instance_n=50_325
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_325.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak at the bottom
+- id: instance_n=50_332
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_332.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.2_peak in the middle
+- id: instance_n=50_336
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_336.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.2_peak in the middle
+- id: instance_n=50_345
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_345.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.2_peak in the middle
+- id: instance_n=50_432
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_432.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: MIXED_0.6_bimodal
+- id: instance_n=50_443
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_443.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: MIXED_0.6_bimodal
+- id: instance_n=50_450
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_450.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 11
+  best_known_stations: 11
+  is_optimum_proven: true
+  cell: MIXED_0.6_bimodal
+- id: instance_n=50_377
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_377.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak at the bottom
+- &id018
+  id: instance_n=50_382
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_382.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak at the bottom
+- id: instance_n=50_392
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_392.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak at the bottom
+- id: instance_n=50_404
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_404.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.6_peak in the middle
+- &id019
+  id: instance_n=50_412
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_412.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 26
+  best_known_stations: 26
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak in the middle
+- id: instance_n=50_421
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_421.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 34
+  best_known_stations: 34
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak in the middle
+- id: instance_n=50_508
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_508.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: MIXED_0.9_bimodal
+- id: instance_n=50_517
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_517.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: MIXED_0.9_bimodal
+- id: instance_n=50_521
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_521.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 10
+  best_known_stations: 10
+  is_optimum_proven: true
+  cell: MIXED_0.9_bimodal
+- id: instance_n=50_455
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_455.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 6
+  best_known_stations: 6
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak at the bottom
+- &id020
+  id: instance_n=50_462
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_462.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 7
+  best_known_stations: 7
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak at the bottom
+- id: instance_n=50_472
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_472.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: 8
+  best_known_stations: 8
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak at the bottom
+- id: instance_n=50_487
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_487.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.9_peak in the middle
+- id: instance_n=50_492
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_492.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.9_peak in the middle
+- id: instance_n=50_493
+  stratum: generated
+  source_file: data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_493.alb
+  num_tasks: 50
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.9_peak in the middle
+- id: instance_n=100_4
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_4.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 24
+  best_known_stations: 24
+  is_optimum_proven: true
+  cell: BN_0.2_bimodal
+- id: instance_n=100_15
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_15.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 24
+  best_known_stations: 24
+  is_optimum_proven: true
+  cell: BN_0.2_bimodal
+- id: instance_n=100_25
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_25.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 22
+  best_known_stations: 22
+  is_optimum_proven: true
+  cell: BN_0.2_bimodal
+- id: instance_n=100_28
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_28.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: BN_0.2_peak at the bottom
+- &id028
+  id: instance_n=100_40
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_40.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: BN_0.2_peak at the bottom
+- id: instance_n=100_44
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_44.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: BN_0.2_peak at the bottom
+- id: instance_n=100_51
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_51.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: BN_0.2_peak in the middle
+- id: instance_n=100_55
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_55.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: BN_0.2_peak in the middle
+- id: instance_n=100_63
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_63.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 61
+  best_known_stations: 61
+  is_optimum_proven: true
+  cell: BN_0.2_peak in the middle
+- id: instance_n=100_79
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_79.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 21
+  best_known_stations: 21
+  is_optimum_proven: true
+  cell: BN_0.6_bimodal
+- id: instance_n=100_91
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_91.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 25
+  best_known_stations: 25
+  is_optimum_proven: true
+  cell: BN_0.6_bimodal
+- id: instance_n=100_92
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_92.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 24
+  best_known_stations: 24
+  is_optimum_proven: true
+  cell: BN_0.6_bimodal
+- id: instance_n=100_105
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_105.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: BN_0.6_peak at the bottom
+- id: instance_n=100_114
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_114.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: BN_0.6_peak at the bottom
+- id: instance_n=100_120
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_120.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: BN_0.6_peak at the bottom
+- id: instance_n=100_137
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_137.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: BN_0.6_peak in the middle
+- id: instance_n=100_139
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_139.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: BN_0.6_peak in the middle
+- id: instance_n=100_148
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_148.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: BN_0.6_peak in the middle
+- id: instance_n=100_151
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_151.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 21
+  best_known_stations: 21
+  is_optimum_proven: true
+  cell: CH_0.2_bimodal
+- id: instance_n=100_158
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_158.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 23
+  best_known_stations: 23
+  is_optimum_proven: true
+  cell: CH_0.2_bimodal
+- id: instance_n=100_164
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_164.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 23
+  best_known_stations: 23
+  is_optimum_proven: true
+  cell: CH_0.2_bimodal
+- id: instance_n=100_185
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_185.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 15
+  best_known_stations: 15
+  is_optimum_proven: true
+  cell: CH_0.2_peak at the bottom
+- id: instance_n=100_187
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_187.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: CH_0.2_peak at the bottom
+- id: instance_n=100_200
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_200.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 15
+  best_known_stations: 15
+  is_optimum_proven: true
+  cell: CH_0.2_peak at the bottom
+- id: instance_n=100_202
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_202.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: CH_0.2_peak in the middle
+- id: instance_n=100_207
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_207.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: CH_0.2_peak in the middle
+- id: instance_n=100_213
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_213.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: CH_0.2_peak in the middle
+- id: instance_n=100_230
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_230.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 23
+  best_known_stations: 23
+  is_optimum_proven: true
+  cell: CH_0.6_bimodal
+- id: instance_n=100_236
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_236.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 22
+  best_known_stations: 22
+  is_optimum_proven: true
+  cell: CH_0.6_bimodal
+- id: instance_n=100_248
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_248.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 19
+  best_known_stations: 19
+  is_optimum_proven: true
+  cell: CH_0.6_bimodal
+- id: instance_n=100_257
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_257.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 12
+  best_known_stations: 12
+  is_optimum_proven: true
+  cell: CH_0.6_peak at the bottom
+- id: instance_n=100_261
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_261.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: CH_0.6_peak at the bottom
+- &id029
+  id: instance_n=100_270
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_270.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 13
+  best_known_stations: 13
+  is_optimum_proven: true
+  cell: CH_0.6_peak at the bottom
+- &id030
+  id: instance_n=100_288
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_288.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: CH_0.6_peak in the middle
+- id: instance_n=100_297
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_297.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: CH_0.6_peak in the middle
+- id: instance_n=100_299
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_299.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: CH_0.6_peak in the middle
+- id: instance_n=100_301
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_301.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 23
+  best_known_stations: 23
+  is_optimum_proven: true
+  cell: MIXED_0.2_bimodal
+- id: instance_n=100_309
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_309.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 21
+  best_known_stations: 21
+  is_optimum_proven: true
+  cell: MIXED_0.2_bimodal
+- id: instance_n=100_321
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_321.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 26
+  best_known_stations: 26
+  is_optimum_proven: true
+  cell: MIXED_0.2_bimodal
+- id: instance_n=100_329
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_329.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak at the bottom
+- id: instance_n=100_333
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_333.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 15
+  best_known_stations: 15
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak at the bottom
+- id: instance_n=100_338
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_338.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak at the bottom
+- id: instance_n=100_353
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_353.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.2_peak in the middle
+- id: instance_n=100_366
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_366.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 61
+  best_known_stations: 61
+  is_optimum_proven: true
+  cell: MIXED_0.2_peak in the middle
+- id: instance_n=100_367
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_367.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.2_peak in the middle
+- id: instance_n=100_381
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_381.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 24
+  best_known_stations: 24
+  is_optimum_proven: true
+  cell: MIXED_0.6_bimodal
+- id: instance_n=100_391
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_391.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 20
+  best_known_stations: 20
+  is_optimum_proven: true
+  cell: MIXED_0.6_bimodal
+- id: instance_n=100_394
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_394.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 22
+  best_known_stations: 22
+  is_optimum_proven: true
+  cell: MIXED_0.6_bimodal
+- id: instance_n=100_403
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_403.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak at the bottom
+- id: instance_n=100_408
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_408.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak at the bottom
+- id: instance_n=100_418
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_418.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 16
+  best_known_stations: 16
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak at the bottom
+- id: instance_n=100_431
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_431.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.6_peak in the middle
+- id: instance_n=100_448
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_448.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.6_peak in the middle
+- id: instance_n=100_450
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_450.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 53
+  best_known_stations: 53
+  is_optimum_proven: true
+  cell: MIXED_0.6_peak in the middle
+- id: instance_n=100_460
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_460.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 23
+  best_known_stations: 23
+  is_optimum_proven: true
+  cell: MIXED_0.9_bimodal
+- id: instance_n=100_463
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_463.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 26
+  best_known_stations: 26
+  is_optimum_proven: true
+  cell: MIXED_0.9_bimodal
+- id: instance_n=100_464
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_464.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 25
+  best_known_stations: 25
+  is_optimum_proven: true
+  cell: MIXED_0.9_bimodal
+- id: instance_n=100_486
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_486.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 15
+  best_known_stations: 15
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak at the bottom
+- id: instance_n=100_495
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_495.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 15
+  best_known_stations: 15
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak at the bottom
+- id: instance_n=100_500
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_500.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: 14
+  best_known_stations: 14
+  is_optimum_proven: true
+  cell: MIXED_0.9_peak at the bottom
+- id: instance_n=100_508
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_508.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.9_peak in the middle
+- id: instance_n=100_516
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_516.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.9_peak in the middle
+- id: instance_n=100_522
+  stratum: generated
+  source_file: data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_522.alb
+  num_tasks: 100
+  cycle_time: 1000
+  optimal_stations: null
+  best_known_stations: null
+  is_optimum_proven: false
+  cell: MIXED_0.9_peak in the middle
+simulation_instances:
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- *id021
+- *id022
+- *id023
+- *id024
+- *id025
+- *id026
+- *id027
+- *id028
+- *id029
+- *id030

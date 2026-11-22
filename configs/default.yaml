@@ -1,0 +1,8 @@
+project:
+  name: linebench
+  version: "0.1.0"
+  description: "Benchmarking assembly line balancing methods with discrete-event simulation under variability"
+
+environment:
+  python_min: "3.10"
+  random_seed: 42

@@ -1,0 +1,27 @@
+variability:
+  distributions:
+    primary: lognormal
+    ablation: gamma
+  cv_levels:
+    - 0.10
+    - 0.25
+    - 0.50
+
+lines:
+  unpaced:
+    buffers: [0, 1, 3]
+    blocking_mode: blocking_after_service
+  paced:
+    mode: wait_for_slowest
+
+run_parameters:
+  warmup_units: 500
+  total_units: 5500
+  replications: 30
+
+analytical_validation:
+  stations: 2
+  mean_service_rate: 1.0
+  buffers: [0, 1, 2]
+  replications: 50
+  units_per_rep: 10000

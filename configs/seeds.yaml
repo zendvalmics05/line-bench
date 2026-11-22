@@ -1,0 +1,9 @@
+master_seed: 20261119
+
+subsystems:
+  instance_sampling: 42
+  simulation_subset: 2026
+  heuristic_random_passes: 1001
+  exact_solver: 42
+  simulation_replications: 7777
+  common_random_numbers: 9999

@@ -1,0 +1,88 @@
+# ==============================================================================
+# LINEBENCH .gitignore
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Self-Documentation, Project Planning & Internal Guides (DO NOT COMMIT)
+# ------------------------------------------------------------------------------
+line-bench guide.md
+line-bench implementation plan.md
+line-bench master plan.md
+reports/progress_log.md
+docs/interview_preparation.md
+interview_preparation.md
+*interview*.md
+*plan*.md
+*guide*.md
+
+# ------------------------------------------------------------------------------
+# 2. Benchmark Raw Data & Proprietary Distribution Archives
+# ------------------------------------------------------------------------------
+# Raw benchmark instances must not be published to public Git repositories
+data/raw/
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+
+# ------------------------------------------------------------------------------
+# 3. Virtual Environments & Python Runtime
+# ------------------------------------------------------------------------------
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ------------------------------------------------------------------------------
+# 4. Testing, Coverage & Linters
+# ------------------------------------------------------------------------------
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.coverage.*
+
+# ------------------------------------------------------------------------------
+# 5. IDE, Editors & OS Artifacts
+# ------------------------------------------------------------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ------------------------------------------------------------------------------
+# 6. Jupyter Notebook Checkpoints
+# ------------------------------------------------------------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ------------------------------------------------------------------------------
+# 7. Temporary Execution Logs & Scratch Data
+# ------------------------------------------------------------------------------
+*.log
+results/*.log
+results/temp/
+results/scratch/

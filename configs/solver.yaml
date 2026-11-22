@@ -1,0 +1,20 @@
+cp_sat:
+  time_limit_seconds: 60.0
+  num_workers: 2
+  log_search_progress: false
+  random_seed: 42
+
+heuristics:
+  multi_pass:
+    num_passes: 500
+    seed: 1001
+  priority_rules:
+    - RPW
+    - UBT
+    - MTS
+    - MDS
+    - EST
+    - LST
+  directions:
+    - forward
+    - backward

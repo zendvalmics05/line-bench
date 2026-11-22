@@ -1,0 +1,396 @@
+instance_id,stratum,num_tasks,cycle_time,size_tier,reference_stations,is_proven,lower_bound_1,lower_bound_2,lower_bound,lb_gap_stations,lb_relative_gap,source_file,cell
+scholl_arcus1_c3786,classical,83,3786,large,21,True,20,5,20,1,0.047619047619047616,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c3985,classical,83,3985,large,20,True,19,5,19,1,0.05,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c4206,classical,83,4206,large,19,True,18,4,18,1,0.05263157894736842,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c4454,classical,83,4454,large,18,True,17,4,17,1,0.05555555555555555,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c4732,classical,83,4732,large,17,True,16,3,16,1,0.058823529411764705,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c5048,classical,83,5048,large,16,True,15,3,15,1,0.0625,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c5408,classical,83,5408,large,15,True,14,2,14,1,0.06666666666666667,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c5824,classical,83,5824,large,14,True,13,1,13,1,0.07142857142857142,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c5853,classical,83,5853,large,14,True,13,1,13,1,0.07142857142857142,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c6309,classical,83,6309,large,13,True,12,1,12,1,0.07692307692307693,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c6842,classical,83,6842,large,12,True,12,1,12,0,0.0,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c6883,classical,83,6883,large,12,True,11,1,11,1,0.08333333333333333,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c7571,classical,83,7571,large,11,True,10,0,10,1,0.09090909090909091,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c8412,classical,83,8412,large,10,True,9,0,9,1,0.1,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c8898,classical,83,8898,large,9,True,9,0,9,0,0.0,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_arcus1_c10816,classical,83,10816,large,8,True,7,0,7,1,0.125,data/raw/scholl1993/precedence graphs/ARC83.IN2,
+scholl_bowman_c20,classical,8,20,small,5,True,4,4,4,1,0.2,data/raw/scholl1993/precedence graphs/BOWMAN8.IN2,
+scholl_buxey_c27,classical,29,27,medium,13,True,12,12,12,1,0.07692307692307693,data/raw/scholl1993/precedence graphs/BUXEY.IN2,
+scholl_buxey_c30,classical,29,30,medium,12,True,11,8,11,1,0.08333333333333333,data/raw/scholl1993/precedence graphs/BUXEY.IN2,
+scholl_buxey_c33,classical,29,33,medium,11,True,10,5,10,1,0.09090909090909091,data/raw/scholl1993/precedence graphs/BUXEY.IN2,
+scholl_buxey_c36,classical,29,36,medium,10,True,9,4,9,1,0.1,data/raw/scholl1993/precedence graphs/BUXEY.IN2,
+scholl_buxey_c41,classical,29,41,medium,8,True,8,2,8,0,0.0,data/raw/scholl1993/precedence graphs/BUXEY.IN2,
+scholl_buxey_c47,classical,29,47,medium,7,True,7,1,7,0,0.0,data/raw/scholl1993/precedence graphs/BUXEY.IN2,
+scholl_buxey_c54,classical,29,54,medium,7,True,6,0,6,1,0.14285714285714285,data/raw/scholl1993/precedence graphs/BUXEY.IN2,
+scholl_gunther_c41,classical,35,41,medium,14,True,12,12,12,2,0.14285714285714285,data/raw/scholl1993/precedence graphs/GUNTHER.IN2,
+scholl_gunther_c44,classical,35,44,medium,12,True,11,11,11,1,0.08333333333333333,data/raw/scholl1993/precedence graphs/GUNTHER.IN2,
+scholl_gunther_c49,classical,35,49,medium,11,True,10,7,10,1,0.09090909090909091,data/raw/scholl1993/precedence graphs/GUNTHER.IN2,
+scholl_gunther_c54,classical,35,54,medium,9,True,9,7,9,0,0.0,data/raw/scholl1993/precedence graphs/GUNTHER.IN2,
+scholl_gunther_c61,classical,35,61,medium,9,True,8,2,8,1,0.1111111111111111,data/raw/scholl1993/precedence graphs/GUNTHER.IN2,
+scholl_gunther_c69,classical,35,69,medium,8,True,7,2,7,1,0.125,data/raw/scholl1993/precedence graphs/GUNTHER.IN2,
+scholl_gunther_c81,classical,35,81,medium,7,True,6,0,6,1,0.14285714285714285,data/raw/scholl1993/precedence graphs/GUNTHER.IN2,
+scholl_hahn_c2004,classical,53,2004,medium,8,True,7,4,7,1,0.125,data/raw/scholl1993/precedence graphs/HAHN.IN2,
+scholl_hahn_c2338,classical,53,2338,medium,7,True,6,3,6,1,0.14285714285714285,data/raw/scholl1993/precedence graphs/HAHN.IN2,
+scholl_hahn_c2806,classical,53,2806,medium,6,True,5,2,5,1,0.16666666666666666,data/raw/scholl1993/precedence graphs/HAHN.IN2,
+scholl_hahn_c3507,classical,53,3507,medium,5,True,4,1,4,1,0.2,data/raw/scholl1993/precedence graphs/HAHN.IN2,
+scholl_hahn_c4676,classical,53,4676,medium,4,True,3,0,3,1,0.25,data/raw/scholl1993/precedence graphs/HAHN.IN2,
+scholl_heskiaoff_c138,classical,28,138,medium,8,True,8,5,8,0,0.0,data/raw/scholl1993/precedence graphs/HESKIA.IN2,
+scholl_heskiaoff_c205,classical,28,205,medium,5,True,5,2,5,0,0.0,data/raw/scholl1993/precedence graphs/HESKIA.IN2,
+scholl_heskiaoff_c216,classical,28,216,medium,5,True,5,1,5,0,0.0,data/raw/scholl1993/precedence graphs/HESKIA.IN2,
+scholl_heskiaoff_c256,classical,28,256,medium,4,True,4,0,4,0,0.0,data/raw/scholl1993/precedence graphs/HESKIA.IN2,
+scholl_heskiaoff_c324,classical,28,324,medium,4,True,4,0,4,0,0.0,data/raw/scholl1993/precedence graphs/HESKIA.IN2,
+scholl_heskiaoff_c342,classical,28,342,medium,3,True,3,0,3,0,0.0,data/raw/scholl1993/precedence graphs/HESKIA.IN2,
+scholl_jackson_c7,classical,11,7,small,8,True,7,7,7,1,0.125,data/raw/scholl1993/precedence graphs/JACKSON.IN2,
+scholl_jackson_c9,classical,11,9,small,6,True,6,6,6,0,0.0,data/raw/scholl1993/precedence graphs/JACKSON.IN2,
+scholl_jackson_c10,classical,11,10,small,5,True,5,5,5,0,0.0,data/raw/scholl1993/precedence graphs/JACKSON.IN2,
+scholl_jackson_c13,classical,11,13,small,4,True,4,1,4,0,0.0,data/raw/scholl1993/precedence graphs/JACKSON.IN2,
+scholl_jackson_c14,classical,11,14,small,4,True,4,1,4,0,0.0,data/raw/scholl1993/precedence graphs/JACKSON.IN2,
+scholl_jackson_c21,classical,11,21,small,3,True,3,0,3,0,0.0,data/raw/scholl1993/precedence graphs/JACKSON.IN2,
+scholl_jaeschke_c6,classical,9,6,small,8,True,7,8,8,0,0.0,data/raw/scholl1993/precedence graphs/JAESCHKE.IN2,
+scholl_jaeschke_c7,classical,9,7,small,7,True,6,7,7,0,0.0,data/raw/scholl1993/precedence graphs/JAESCHKE.IN2,
+scholl_jaeschke_c8,classical,9,8,small,6,True,5,6,6,0,0.0,data/raw/scholl1993/precedence graphs/JAESCHKE.IN2,
+scholl_jaeschke_c10,classical,9,10,small,4,True,4,3,4,0,0.0,data/raw/scholl1993/precedence graphs/JAESCHKE.IN2,
+scholl_jaeschke_c18,classical,9,18,small,3,True,3,0,3,0,0.0,data/raw/scholl1993/precedence graphs/JAESCHKE.IN2,
+scholl_kilbridge_c56,classical,45,56,medium,10,True,10,2,10,0,0.0,data/raw/scholl1993/precedence graphs/KILBRID.IN2,
+scholl_kilbridge_c57,classical,45,57,medium,10,True,10,2,10,0,0.0,data/raw/scholl1993/precedence graphs/KILBRID.IN2,
+scholl_kilbridge_c62,classical,45,62,medium,9,True,9,1,9,0,0.0,data/raw/scholl1993/precedence graphs/KILBRID.IN2,
+scholl_kilbridge_c69,classical,45,69,medium,8,True,8,1,8,0,0.0,data/raw/scholl1993/precedence graphs/KILBRID.IN2,
+scholl_kilbridge_c79,classical,45,79,medium,7,True,7,1,7,0,0.0,data/raw/scholl1993/precedence graphs/KILBRID.IN2,
+scholl_kilbridge_c92,classical,45,92,medium,6,True,6,1,6,0,0.0,data/raw/scholl1993/precedence graphs/KILBRID.IN2,
+scholl_kilbridge_c110,classical,45,110,medium,6,True,6,1,6,0,0.0,data/raw/scholl1993/precedence graphs/KILBRID.IN2,
+scholl_kilbridge_c111,classical,45,111,medium,5,True,5,0,5,0,0.0,data/raw/scholl1993/precedence graphs/KILBRID.IN2,
+scholl_kilbridge_c138,classical,45,138,medium,4,True,4,0,4,0,0.0,data/raw/scholl1993/precedence graphs/KILBRID.IN2,
+scholl_kilbridge_c184,classical,45,184,medium,3,True,3,0,3,0,0.0,data/raw/scholl1993/precedence graphs/KILBRID.IN2,
+scholl_lutz1_c1414,classical,32,1414,medium,11,True,10,2,10,1,0.09090909090909091,data/raw/scholl1993/precedence graphs/LUTZ1.IN2,
+scholl_lutz1_c1572,classical,32,1572,medium,10,True,9,2,9,1,0.1,data/raw/scholl1993/precedence graphs/LUTZ1.IN2,
+scholl_lutz1_c1768,classical,32,1768,medium,9,True,8,1,8,1,0.1111111111111111,data/raw/scholl1993/precedence graphs/LUTZ1.IN2,
+scholl_lutz1_c2020,classical,32,2020,medium,8,True,7,1,7,1,0.125,data/raw/scholl1993/precedence graphs/LUTZ1.IN2,
+scholl_lutz1_c2357,classical,32,2357,medium,7,True,6,1,6,1,0.14285714285714285,data/raw/scholl1993/precedence graphs/LUTZ1.IN2,
+scholl_lutz1_c2828,classical,32,2828,medium,6,True,5,0,5,1,0.16666666666666666,data/raw/scholl1993/precedence graphs/LUTZ1.IN2,
+scholl_lutz2_c11,classical,89,11,large,49,True,45,44,45,4,0.08163265306122448,data/raw/scholl1993/precedence graphs/LUTZ2.IN2,
+scholl_lutz2_c12,classical,89,12,large,44,True,41,40,41,3,0.06818181818181818,data/raw/scholl1993/precedence graphs/LUTZ2.IN2,
+scholl_lutz2_c13,classical,89,13,large,40,True,38,35,38,2,0.05,data/raw/scholl1993/precedence graphs/LUTZ2.IN2,
+scholl_lutz2_c14,classical,89,14,large,37,True,35,31,35,2,0.05405405405405406,data/raw/scholl1993/precedence graphs/LUTZ2.IN2,
+scholl_lutz2_c15,classical,89,15,large,34,True,33,26,33,1,0.029411764705882353,data/raw/scholl1993/precedence graphs/LUTZ2.IN2,
+scholl_lutz2_c16,classical,89,16,large,31,True,31,22,31,0,0.0,data/raw/scholl1993/precedence graphs/LUTZ2.IN2,
+scholl_lutz2_c17,classical,89,17,large,29,True,29,17,29,0,0.0,data/raw/scholl1993/precedence graphs/LUTZ2.IN2,
+scholl_lutz2_c18,classical,89,18,large,28,True,27,13,27,1,0.03571428571428571,data/raw/scholl1993/precedence graphs/LUTZ2.IN2,
+scholl_lutz2_c19,classical,89,19,large,26,True,26,8,26,0,0.0,data/raw/scholl1993/precedence graphs/LUTZ2.IN2,
+scholl_lutz2_c20,classical,89,20,large,25,True,25,4,25,0,0.0,data/raw/scholl1993/precedence graphs/LUTZ2.IN2,
+scholl_lutz2_c21,classical,89,21,large,24,True,24,0,24,0,0.0,data/raw/scholl1993/precedence graphs/LUTZ2.IN2,
+scholl_lutz3_c75,classical,89,75,large,23,True,22,8,22,1,0.043478260869565216,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_lutz3_c79,classical,89,79,large,22,True,21,5,21,1,0.045454545454545456,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_lutz3_c83,classical,89,83,large,21,True,20,5,20,1,0.047619047619047616,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_lutz3_c87,classical,89,87,large,20,True,19,4,19,1,0.05,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_lutz3_c92,classical,89,92,large,19,True,18,4,18,1,0.05263157894736842,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_lutz3_c97,classical,89,97,large,18,True,17,3,17,1,0.05555555555555555,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_lutz3_c103,classical,89,103,large,17,True,16,3,16,1,0.058823529411764705,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_lutz3_c110,classical,89,110,large,15,True,15,3,15,0,0.0,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_lutz3_c118,classical,89,118,large,14,True,14,3,14,0,0.0,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_lutz3_c127,classical,89,127,large,14,True,13,2,13,1,0.07142857142857142,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_lutz3_c137,classical,89,137,large,13,True,12,1,12,1,0.07692307692307693,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_lutz3_c150,classical,89,150,large,12,True,11,0,11,1,0.08333333333333333,data/raw/scholl1993/precedence graphs/LUTZ3.IN2,
+scholl_mansoor_c48,classical,11,48,small,4,True,4,3,4,0,0.0,data/raw/scholl1993/precedence graphs/MANSOOR.IN2,
+scholl_mansoor_c62,classical,11,62,small,3,True,3,3,3,0,0.0,data/raw/scholl1993/precedence graphs/MANSOOR.IN2,
+scholl_mansoor_c94,classical,11,94,small,2,True,2,0,2,0,0.0,data/raw/scholl1993/precedence graphs/MANSOOR.IN2,
+scholl_mertens_c6,classical,7,6,small,6,True,5,6,6,0,0.0,data/raw/scholl1993/precedence graphs/MERTENS.IN2,
+scholl_mertens_c7,classical,7,7,small,5,True,5,5,5,0,0.0,data/raw/scholl1993/precedence graphs/MERTENS.IN2,
+scholl_mertens_c8,classical,7,8,small,5,True,4,5,5,0,0.0,data/raw/scholl1993/precedence graphs/MERTENS.IN2,
+scholl_mertens_c10,classical,7,10,small,3,True,3,3,3,0,0.0,data/raw/scholl1993/precedence graphs/MERTENS.IN2,
+scholl_mertens_c15,classical,7,15,small,2,True,2,0,2,0,0.0,data/raw/scholl1993/precedence graphs/MERTENS.IN2,
+scholl_mertens_c18,classical,7,18,small,2,True,2,0,2,0,0.0,data/raw/scholl1993/precedence graphs/MERTENS.IN2,
+scholl_mitchell_c14,classical,21,14,small,8,True,8,5,8,0,0.0,data/raw/scholl1993/precedence graphs/MITCHELL.IN2,
+scholl_mitchell_c15,classical,21,15,small,8,True,7,4,7,1,0.125,data/raw/scholl1993/precedence graphs/MITCHELL.IN2,
+scholl_mitchell_c21,classical,21,21,small,5,True,5,1,5,0,0.0,data/raw/scholl1993/precedence graphs/MITCHELL.IN2,
+scholl_mitchell_c26,classical,21,26,small,5,True,5,1,5,0,0.0,data/raw/scholl1993/precedence graphs/MITCHELL.IN2,
+scholl_mitchell_c35,classical,21,35,small,3,True,3,0,3,0,0.0,data/raw/scholl1993/precedence graphs/MITCHELL.IN2,
+scholl_mitchell_c39,classical,21,39,small,3,True,3,0,3,0,0.0,data/raw/scholl1993/precedence graphs/MITCHELL.IN2,
+scholl_mukherje_c176,classical,94,176,large,25,True,24,10,24,1,0.04,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c183,classical,94,183,large,24,True,23,10,23,1,0.041666666666666664,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c192,classical,94,192,large,23,True,22,8,22,1,0.043478260869565216,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c201,classical,94,201,large,22,True,21,8,21,1,0.045454545454545456,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c211,classical,94,211,large,21,True,20,7,20,1,0.047619047619047616,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c222,classical,94,222,large,20,True,19,7,19,1,0.05,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c234,classical,94,234,large,19,True,18,4,18,1,0.05263157894736842,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c248,classical,94,248,large,18,True,17,3,17,1,0.05555555555555555,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c263,classical,94,263,large,17,True,16,3,16,1,0.058823529411764705,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c281,classical,94,281,large,16,True,15,3,15,1,0.0625,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c301,classical,94,301,large,15,True,14,2,14,1,0.06666666666666667,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c324,classical,94,324,large,14,True,13,1,13,1,0.07142857142857142,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_mukherje_c351,classical,94,351,large,13,True,12,0,12,1,0.07692307692307693,data/raw/scholl1993/precedence graphs/MUKHERJE.IN2,
+scholl_roszieg_c14,classical,25,14,small,10,True,9,6,9,1,0.1,data/raw/scholl1993/precedence graphs/ROSZIEG.IN2,
+scholl_roszieg_c16,classical,25,16,small,8,True,8,4,8,0,0.0,data/raw/scholl1993/precedence graphs/ROSZIEG.IN2,
+scholl_roszieg_c18,classical,25,18,small,8,True,7,2,7,1,0.125,data/raw/scholl1993/precedence graphs/ROSZIEG.IN2,
+scholl_roszieg_c21,classical,25,21,small,6,True,6,1,6,0,0.0,data/raw/scholl1993/precedence graphs/ROSZIEG.IN2,
+scholl_roszieg_c25,classical,25,25,small,6,True,5,1,5,1,0.16666666666666666,data/raw/scholl1993/precedence graphs/ROSZIEG.IN2,
+scholl_roszieg_c32,classical,25,32,small,4,True,4,0,4,0,0.0,data/raw/scholl1993/precedence graphs/ROSZIEG.IN2,
+scholl_sawyer_c25,classical,30,25,medium,14,True,13,12,13,1,0.07142857142857142,data/raw/scholl1993/precedence graphs/SAWYER30.IN2,
+scholl_sawyer_c27,classical,30,27,medium,13,True,12,12,12,1,0.07692307692307693,data/raw/scholl1993/precedence graphs/SAWYER30.IN2,
+scholl_sawyer_c30,classical,30,30,medium,12,True,11,8,11,1,0.08333333333333333,data/raw/scholl1993/precedence graphs/SAWYER30.IN2,
+scholl_sawyer_c33,classical,30,33,medium,11,True,10,5,10,1,0.09090909090909091,data/raw/scholl1993/precedence graphs/SAWYER30.IN2,
+scholl_sawyer_c36,classical,30,36,medium,10,True,9,4,9,1,0.1,data/raw/scholl1993/precedence graphs/SAWYER30.IN2,
+scholl_sawyer_c41,classical,30,41,medium,8,True,8,2,8,0,0.0,data/raw/scholl1993/precedence graphs/SAWYER30.IN2,
+scholl_sawyer_c47,classical,30,47,medium,7,True,7,1,7,0,0.0,data/raw/scholl1993/precedence graphs/SAWYER30.IN2,
+scholl_sawyer_c54,classical,30,54,medium,7,True,6,0,6,1,0.14285714285714285,data/raw/scholl1993/precedence graphs/SAWYER30.IN2,
+scholl_sawyer_c75,classical,30,75,medium,5,True,5,0,5,0,0.0,data/raw/scholl1993/precedence graphs/SAWYER30.IN2,
+scholl_tonge_c160,classical,70,160,large,23,True,22,14,22,1,0.043478260869565216,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c168,classical,70,168,large,22,True,21,13,21,1,0.045454545454545456,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c176,classical,70,176,large,21,True,20,12,20,1,0.047619047619047616,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c185,classical,70,185,large,20,True,19,9,19,1,0.05,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c195,classical,70,195,large,19,True,18,8,18,1,0.05263157894736842,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c207,classical,70,207,large,18,True,17,7,17,1,0.05555555555555555,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c220,classical,70,220,large,17,True,16,7,16,1,0.058823529411764705,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c234,classical,70,234,large,16,True,15,7,15,1,0.0625,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c251,classical,70,251,large,14,True,14,6,14,0,0.0,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c270,classical,70,270,large,14,True,13,4,13,1,0.07142857142857142,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c293,classical,70,293,large,13,True,12,2,12,1,0.07692307692307693,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c320,classical,70,320,large,11,True,11,0,11,0,0.0,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c364,classical,70,364,large,10,True,10,0,10,0,0.0,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c410,classical,70,410,large,9,True,9,0,9,0,0.0,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c468,classical,70,468,large,8,True,8,0,8,0,0.0,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_tonge_c527,classical,70,527,large,7,True,7,0,7,0,0.0,data/raw/scholl1993/precedence graphs/TONGE70.IN2,
+scholl_warnecke_c54,classical,58,54,medium,31,True,29,26,29,2,0.06451612903225806,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c56,classical,58,56,medium,29,True,28,26,28,1,0.034482758620689655,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c58,classical,58,58,medium,29,True,27,25,27,2,0.06896551724137931,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c60,classical,58,60,medium,27,True,26,24,26,1,0.037037037037037035,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c62,classical,58,62,medium,27,True,25,24,25,2,0.07407407407407407,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c65,classical,58,65,medium,25,True,24,24,24,1,0.04,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c68,classical,58,68,medium,24,True,23,19,23,1,0.041666666666666664,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c71,classical,58,71,medium,23,True,22,16,22,1,0.043478260869565216,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c74,classical,58,74,medium,22,True,21,14,21,1,0.045454545454545456,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c78,classical,58,78,medium,21,True,20,13,20,1,0.047619047619047616,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c82,classical,58,82,medium,20,True,19,13,19,1,0.05,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c86,classical,58,86,medium,19,True,18,11,18,1,0.05263157894736842,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c92,classical,58,92,medium,17,True,17,7,17,0,0.0,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c97,classical,58,97,medium,17,True,16,6,16,1,0.058823529411764705,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c104,classical,58,104,medium,15,True,15,3,15,0,0.0,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_warnecke_c111,classical,58,111,medium,14,True,14,0,14,0,0.0,data/raw/scholl1993/precedence graphs/WARNECKE.IN2,
+scholl_wee-mag_c28,classical,75,28,large,63,True,54,61,61,2,0.031746031746031744,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c29,classical,75,29,large,63,True,52,61,61,2,0.031746031746031744,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c30,classical,75,30,large,62,True,50,61,61,1,0.016129032258064516,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c31,classical,75,31,large,62,True,49,60,60,2,0.03225806451612903,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c32,classical,75,32,large,61,True,47,60,60,1,0.01639344262295082,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c33,classical,75,33,large,61,True,46,60,60,1,0.01639344262295082,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c34,classical,75,34,large,61,True,45,60,60,1,0.01639344262295082,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c35,classical,75,35,large,60,True,43,60,60,0,0.0,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c36,classical,75,36,large,60,True,42,60,60,0,0.0,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c37,classical,75,37,large,60,True,41,60,60,0,0.0,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c38,classical,75,38,large,60,True,40,60,60,0,0.0,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c39,classical,75,39,large,60,True,39,60,60,0,0.0,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c40,classical,75,40,large,60,True,38,60,60,0,0.0,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c41,classical,75,41,large,59,True,37,59,59,0,0.0,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c42,classical,75,42,large,55,True,36,55,55,0,0.0,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c43,classical,75,43,large,50,True,35,50,50,0,0.0,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c45,classical,75,45,large,38,True,34,31,34,4,0.10526315789473684,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c46,classical,75,46,large,34,True,33,27,33,1,0.029411764705882353,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c47,classical,75,47,large,32,False,32,23,32,0,0.0,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c49,classical,75,49,large,32,True,31,17,31,1,0.03125,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c50,classical,75,50,large,32,True,30,13,30,2,0.0625,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c52,classical,75,52,large,31,True,29,5,29,2,0.06451612903225806,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c54,classical,75,54,large,31,True,28,1,28,3,0.0967741935483871,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_wee-mag_c56,classical,75,56,large,30,True,27,0,27,3,0.1,data/raw/scholl1993/precedence graphs/WEE-MAG.IN2,
+scholl_arcus2_c6837,classical,111,6837,large,23,True,22,12,22,1,0.043478260869565216,data/raw/scholl1993/precedence graphs/ARC111.IN2,
+scholl_arcus2_c7162,classical,111,7162,large,22,True,21,8,21,1,0.045454545454545456,data/raw/scholl1993/precedence graphs/ARC111.IN2,
+scholl_arcus2_c11378,classical,111,11378,large,14,True,14,1,14,0,0.0,data/raw/scholl1993/precedence graphs/ARC111.IN2,
+scholl_barthol2_c109,classical,148,109,large,39,True,39,15,39,0,0.0,data/raw/scholl1993/precedence graphs/BARTHOL2.IN2,
+scholl_barthol2_c142,classical,148,142,large,30,True,30,6,30,0,0.0,data/raw/scholl1993/precedence graphs/BARTHOL2.IN2,
+scholl_barthol2_c170,classical,148,170,large,25,True,25,0,25,0,0.0,data/raw/scholl1993/precedence graphs/BARTHOL2.IN2,
+scholl_barthold_c626,classical,148,626,large,9,True,9,1,9,0,0.0,data/raw/scholl1993/precedence graphs/BARTHOLD.IN2,
+scholl_barthold_c705,classical,148,705,large,8,True,8,1,8,0,0.0,data/raw/scholl1993/precedence graphs/BARTHOLD.IN2,
+scholl_scholl_c1483,classical,297,1483,very_large,47,True,47,11,47,0,0.0,data/raw/scholl1993/precedence graphs/SCHOLL.IN2,
+scholl_scholl_c1584,classical,297,1584,very_large,44,True,44,10,44,0,0.0,data/raw/scholl1993/precedence graphs/SCHOLL.IN2,
+scholl_scholl_c1620,classical,297,1620,very_large,44,True,43,10,43,1,0.022727272727272728,data/raw/scholl1993/precedence graphs/SCHOLL.IN2,
+scholl_scholl_c1991,classical,297,1991,very_large,35,True,35,4,35,0,0.0,data/raw/scholl1993/precedence graphs/SCHOLL.IN2,
+scholl_scholl_c2322,classical,297,2322,very_large,30,True,30,2,30,0,0.0,data/raw/scholl1993/precedence graphs/SCHOLL.IN2,
+scholl_scholl_c2402,classical,297,2402,very_large,29,True,29,2,29,0,0.0,data/raw/scholl1993/precedence graphs/SCHOLL.IN2,
+scholl_scholl_c2787,classical,297,2787,very_large,25,True,25,0,25,0,0.0,data/raw/scholl1993/precedence graphs/SCHOLL.IN2,
+instance_n=20_46,generated,20,1000,small,4,True,4,0,4,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_46.alb,BN_0.2_bimodal
+instance_n=20_51,generated,20,1000,small,4,True,4,1,4,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_51.alb,BN_0.2_bimodal
+instance_n=20_64,generated,20,1000,small,5,True,5,1,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_64.alb,BN_0.2_bimodal
+instance_n=20_2,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_2.alb,BN_0.2_peak at the bottom
+instance_n=20_521,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_521.alb,BN_0.2_peak at the bottom
+instance_n=20_522,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_522.alb,BN_0.2_peak at the bottom
+instance_n=20_19,generated,20,1000,small,14,True,12,14,14,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_19.alb,BN_0.2_peak in the middle
+instance_n=20_30,generated,20,1000,small,16,True,12,13,13,3,0.1875,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_30.alb,BN_0.2_peak in the middle
+instance_n=20_34,generated,20,1000,small,12,True,11,10,11,1,0.08333333333333333,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_34.alb,BN_0.2_peak in the middle
+instance_n=20_117,generated,20,1000,small,5,True,5,2,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_117.alb,BN_0.6_bimodal
+instance_n=20_127,generated,20,1000,small,4,True,4,1,4,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_127.alb,BN_0.6_bimodal
+instance_n=20_139,generated,20,1000,small,5,True,5,1,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_139.alb,BN_0.6_bimodal
+instance_n=20_70,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_70.alb,BN_0.6_peak at the bottom
+instance_n=20_83,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_83.alb,BN_0.6_peak at the bottom
+instance_n=20_84,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_84.alb,BN_0.6_peak at the bottom
+instance_n=20_92,generated,20,1000,small,11,True,10,11,11,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_92.alb,BN_0.6_peak in the middle
+instance_n=20_102,generated,20,1000,small,11,False,11,9,11,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_102.alb,BN_0.6_peak in the middle
+instance_n=20_104,generated,20,1000,small,11,True,10,10,10,1,0.09090909090909091,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_104.alb,BN_0.6_peak in the middle
+instance_n=20_206,generated,20,1000,small,5,True,5,2,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_206.alb,CH_0.2_bimodal
+instance_n=20_209,generated,20,1000,small,4,True,4,0,4,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_209.alb,CH_0.2_bimodal
+instance_n=20_213,generated,20,1000,small,5,True,5,2,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_213.alb,CH_0.2_bimodal
+instance_n=20_148,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_148.alb,CH_0.2_peak at the bottom
+instance_n=20_150,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_150.alb,CH_0.2_peak at the bottom
+instance_n=20_163,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_163.alb,CH_0.2_peak at the bottom
+instance_n=20_170,generated,20,1000,small,11,True,11,10,11,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_170.alb,CH_0.2_peak in the middle
+instance_n=20_176,generated,20,1000,small,11,True,10,8,10,1,0.09090909090909091,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_176.alb,CH_0.2_peak in the middle
+instance_n=20_185,generated,20,1000,small,15,True,11,14,14,1,0.06666666666666667,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_185.alb,CH_0.2_peak in the middle
+instance_n=20_274,generated,20,1000,small,6,True,5,1,5,1,0.16666666666666666,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_274.alb,CH_0.6_bimodal
+instance_n=20_277,generated,20,1000,small,4,True,4,1,4,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_277.alb,CH_0.6_bimodal
+instance_n=20_281,generated,20,1000,small,4,True,4,1,4,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_281.alb,CH_0.6_bimodal
+instance_n=20_226,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_226.alb,CH_0.6_peak at the bottom
+instance_n=20_231,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_231.alb,CH_0.6_peak at the bottom
+instance_n=20_238,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_238.alb,CH_0.6_peak at the bottom
+instance_n=20_243,generated,20,1000,small,10,True,9,6,9,1,0.1,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_243.alb,CH_0.6_peak in the middle
+instance_n=20_255,generated,20,1000,small,13,True,11,12,12,1,0.07692307692307693,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_255.alb,CH_0.6_peak in the middle
+instance_n=20_257,generated,20,1000,small,10,True,10,7,10,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_257.alb,CH_0.6_peak in the middle
+instance_n=20_351,generated,20,1000,small,5,True,5,1,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_351.alb,MIXED_0.2_bimodal
+instance_n=20_360,generated,20,1000,small,6,True,6,2,6,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_360.alb,MIXED_0.2_bimodal
+instance_n=20_361,generated,20,1000,small,5,True,5,2,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_361.alb,MIXED_0.2_bimodal
+instance_n=20_296,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_296.alb,MIXED_0.2_peak at the bottom
+instance_n=20_297,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_297.alb,MIXED_0.2_peak at the bottom
+instance_n=20_311,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_311.alb,MIXED_0.2_peak at the bottom
+instance_n=20_319,generated,20,1000,small,14,True,12,13,13,1,0.07142857142857142,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_319.alb,MIXED_0.2_peak in the middle
+instance_n=20_320,generated,20,1000,small,12,True,11,11,11,1,0.08333333333333333,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_320.alb,MIXED_0.2_peak in the middle
+instance_n=20_335,generated,20,1000,small,14,True,10,14,14,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_335.alb,MIXED_0.2_peak in the middle
+instance_n=20_434,generated,20,1000,small,5,True,5,2,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_434.alb,MIXED_0.6_bimodal
+instance_n=20_435,generated,20,1000,small,7,True,6,3,6,1,0.14285714285714285,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_435.alb,MIXED_0.6_bimodal
+instance_n=20_439,generated,20,1000,small,5,True,5,1,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_439.alb,MIXED_0.6_bimodal
+instance_n=20_372,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_372.alb,MIXED_0.6_peak at the bottom
+instance_n=20_382,generated,20,1000,small,4,True,4,0,4,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_382.alb,MIXED_0.6_peak at the bottom
+instance_n=20_385,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_385.alb,MIXED_0.6_peak at the bottom
+instance_n=20_391,generated,20,1000,small,11,True,10,9,10,1,0.09090909090909091,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_391.alb,MIXED_0.6_peak in the middle
+instance_n=20_402,generated,20,1000,small,12,True,11,11,11,1,0.08333333333333333,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_402.alb,MIXED_0.6_peak in the middle
+instance_n=20_404,generated,20,1000,small,10,True,9,7,9,1,0.1,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_404.alb,MIXED_0.6_peak in the middle
+instance_n=20_493,generated,20,1000,small,5,True,5,2,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_493.alb,MIXED_0.9_bimodal
+instance_n=20_501,generated,20,1000,small,5,True,5,3,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_501.alb,MIXED_0.9_bimodal
+instance_n=20_507,generated,20,1000,small,5,True,5,0,5,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_507.alb,MIXED_0.9_bimodal
+instance_n=20_442,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_442.alb,MIXED_0.9_peak at the bottom
+instance_n=20_454,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_454.alb,MIXED_0.9_peak at the bottom
+instance_n=20_460,generated,20,1000,small,3,True,3,0,3,0,0.0,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_460.alb,MIXED_0.9_peak at the bottom
+instance_n=20_479,generated,20,1000,small,13,True,11,12,12,1,0.07692307692307693,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_479.alb,MIXED_0.9_peak in the middle
+instance_n=20_480,generated,20,1000,small,13,True,11,11,11,2,0.15384615384615385,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_480.alb,MIXED_0.9_peak in the middle
+instance_n=20_490,generated,20,1000,small,12,True,10,9,10,2,0.16666666666666666,data/raw/otto2013/small data set_n=20/small data set_n=20/instance_n=20_490.alb,MIXED_0.9_peak in the middle
+instance_n=50_58,generated,50,1000,medium,11,True,11,1,11,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_58.alb,BN_0.2_bimodal
+instance_n=50_66,generated,50,1000,medium,12,True,12,4,12,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_66.alb,BN_0.2_bimodal
+instance_n=50_69,generated,50,1000,medium,12,True,12,6,12,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_69.alb,BN_0.2_bimodal
+instance_n=50_6,generated,50,1000,medium,6,True,6,0,6,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_6.alb,BN_0.2_peak at the bottom
+instance_n=50_11,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_11.alb,BN_0.2_peak at the bottom
+instance_n=50_24,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_24.alb,BN_0.2_peak at the bottom
+instance_n=50_26,generated,50,1000,medium,27,True,25,26,26,1,0.037037037037037035,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_26.alb,BN_0.2_peak in the middle
+instance_n=50_46,generated,50,1000,medium,28,False,26,28,28,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_46.alb,BN_0.2_peak in the middle
+instance_n=50_48,generated,50,1000,medium,26,False,26,22,26,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_48.alb,BN_0.2_peak in the middle
+instance_n=50_127,generated,50,1000,medium,14,True,14,8,14,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_127.alb,BN_0.6_bimodal
+instance_n=50_133,generated,50,1000,medium,12,True,12,4,12,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_133.alb,BN_0.6_bimodal
+instance_n=50_146,generated,50,1000,medium,13,True,13,5,13,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_146.alb,BN_0.6_bimodal
+instance_n=50_79,generated,50,1000,medium,8,True,8,0,8,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_79.alb,BN_0.6_peak at the bottom
+instance_n=50_85,generated,50,1000,medium,8,True,8,0,8,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_85.alb,BN_0.6_peak at the bottom
+instance_n=50_91,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_91.alb,BN_0.6_peak at the bottom
+instance_n=50_117,generated,50,1000,medium,25,False,25,21,25,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_117.alb,BN_0.6_peak in the middle
+instance_n=50_119,generated,50,1000,medium,25,True,24,23,24,1,0.04,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_119.alb,BN_0.6_peak in the middle
+instance_n=50_124,generated,50,1000,medium,26,False,26,26,26,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_124.alb,BN_0.6_peak in the middle
+instance_n=50_209,generated,50,1000,medium,11,True,11,3,11,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_209.alb,CH_0.2_bimodal
+instance_n=50_210,generated,50,1000,medium,13,True,13,9,13,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_210.alb,CH_0.2_bimodal
+instance_n=50_220,generated,50,1000,medium,11,True,11,2,11,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_220.alb,CH_0.2_bimodal
+instance_n=50_151,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_151.alb,CH_0.2_peak at the bottom
+instance_n=50_153,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_153.alb,CH_0.2_peak at the bottom
+instance_n=50_175,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_175.alb,CH_0.2_peak at the bottom
+instance_n=50_187,generated,50,1000,medium,25,False,25,24,25,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_187.alb,CH_0.2_peak in the middle
+instance_n=50_192,generated,50,1000,medium,25,False,25,25,25,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_192.alb,CH_0.2_peak in the middle
+instance_n=50_193,generated,50,1000,medium,28,True,26,26,26,2,0.07142857142857142,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_193.alb,CH_0.2_peak in the middle
+instance_n=50_279,generated,50,1000,medium,11,True,11,4,11,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_279.alb,CH_0.6_bimodal
+instance_n=50_287,generated,50,1000,medium,12,True,12,3,12,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_287.alb,CH_0.6_bimodal
+instance_n=50_298,generated,50,1000,medium,11,True,11,3,11,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_298.alb,CH_0.6_bimodal
+instance_n=50_230,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_230.alb,CH_0.6_peak at the bottom
+instance_n=50_236,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_236.alb,CH_0.6_peak at the bottom
+instance_n=50_237,generated,50,1000,medium,8,True,8,0,8,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_237.alb,CH_0.6_peak at the bottom
+instance_n=50_257,generated,50,1000,medium,30,False,27,30,30,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_257.alb,CH_0.6_peak in the middle
+instance_n=50_266,generated,50,1000,medium,29,True,26,24,26,3,0.10344827586206896,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_266.alb,CH_0.6_peak in the middle
+instance_n=50_267,generated,50,1000,medium,25,False,25,23,25,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_267.alb,CH_0.6_peak in the middle
+instance_n=50_353,generated,50,1000,medium,13,True,13,5,13,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_353.alb,MIXED_0.2_bimodal
+instance_n=50_359,generated,50,1000,medium,10,True,10,3,10,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_359.alb,MIXED_0.2_bimodal
+instance_n=50_373,generated,50,1000,medium,12,True,12,4,12,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_373.alb,MIXED_0.2_bimodal
+instance_n=50_309,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_309.alb,MIXED_0.2_peak at the bottom
+instance_n=50_323,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_323.alb,MIXED_0.2_peak at the bottom
+instance_n=50_325,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_325.alb,MIXED_0.2_peak at the bottom
+instance_n=50_332,generated,50,1000,medium,24,False,24,17,24,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_332.alb,MIXED_0.2_peak in the middle
+instance_n=50_336,generated,50,1000,medium,25,False,25,24,25,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_336.alb,MIXED_0.2_peak in the middle
+instance_n=50_345,generated,50,1000,medium,26,False,26,26,26,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_345.alb,MIXED_0.2_peak in the middle
+instance_n=50_432,generated,50,1000,medium,12,True,12,5,12,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_432.alb,MIXED_0.6_bimodal
+instance_n=50_443,generated,50,1000,medium,11,True,11,6,11,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_443.alb,MIXED_0.6_bimodal
+instance_n=50_450,generated,50,1000,medium,11,True,11,2,11,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_450.alb,MIXED_0.6_bimodal
+instance_n=50_377,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_377.alb,MIXED_0.6_peak at the bottom
+instance_n=50_382,generated,50,1000,medium,6,True,6,0,6,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_382.alb,MIXED_0.6_peak at the bottom
+instance_n=50_392,generated,50,1000,medium,8,True,8,0,8,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_392.alb,MIXED_0.6_peak at the bottom
+instance_n=50_404,generated,50,1000,medium,28,False,26,28,28,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_404.alb,MIXED_0.6_peak in the middle
+instance_n=50_412,generated,50,1000,medium,26,True,25,23,25,1,0.038461538461538464,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_412.alb,MIXED_0.6_peak in the middle
+instance_n=50_421,generated,50,1000,medium,34,True,27,32,32,2,0.058823529411764705,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_421.alb,MIXED_0.6_peak in the middle
+instance_n=50_508,generated,50,1000,medium,14,True,13,6,13,1,0.07142857142857142,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_508.alb,MIXED_0.9_bimodal
+instance_n=50_517,generated,50,1000,medium,14,True,13,3,13,1,0.07142857142857142,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_517.alb,MIXED_0.9_bimodal
+instance_n=50_521,generated,50,1000,medium,10,True,10,2,10,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_521.alb,MIXED_0.9_bimodal
+instance_n=50_455,generated,50,1000,medium,6,True,6,0,6,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_455.alb,MIXED_0.9_peak at the bottom
+instance_n=50_462,generated,50,1000,medium,7,True,7,0,7,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_462.alb,MIXED_0.9_peak at the bottom
+instance_n=50_472,generated,50,1000,medium,8,True,8,0,8,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_472.alb,MIXED_0.9_peak at the bottom
+instance_n=50_487,generated,50,1000,medium,26,False,26,22,26,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_487.alb,MIXED_0.9_peak in the middle
+instance_n=50_492,generated,50,1000,medium,24,False,24,24,24,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_492.alb,MIXED_0.9_peak in the middle
+instance_n=50_493,generated,50,1000,medium,25,False,25,21,25,0,0.0,data/raw/otto2013/medium data set_n=50/medium data set_n=50/instance_n=50_493.alb,MIXED_0.9_peak in the middle
+instance_n=100_4,generated,100,1000,large,24,True,24,9,24,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_4.alb,BN_0.2_bimodal
+instance_n=100_15,generated,100,1000,large,24,True,24,9,24,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_15.alb,BN_0.2_bimodal
+instance_n=100_25,generated,100,1000,large,22,True,22,5,22,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_25.alb,BN_0.2_bimodal
+instance_n=100_28,generated,100,1000,large,14,True,14,0,14,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_28.alb,BN_0.2_peak at the bottom
+instance_n=100_40,generated,100,1000,large,14,True,14,0,14,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_40.alb,BN_0.2_peak at the bottom
+instance_n=100_44,generated,100,1000,large,14,True,14,0,14,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_44.alb,BN_0.2_peak at the bottom
+instance_n=100_51,generated,100,1000,large,48,False,48,43,48,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_51.alb,BN_0.2_peak in the middle
+instance_n=100_55,generated,100,1000,large,50,False,50,46,50,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_55.alb,BN_0.2_peak in the middle
+instance_n=100_63,generated,100,1000,large,61,True,52,58,58,3,0.04918032786885246,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_63.alb,BN_0.2_peak in the middle
+instance_n=100_79,generated,100,1000,large,21,True,21,9,21,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_79.alb,BN_0.6_bimodal
+instance_n=100_91,generated,100,1000,large,25,True,25,8,25,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_91.alb,BN_0.6_bimodal
+instance_n=100_92,generated,100,1000,large,24,True,24,11,24,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_92.alb,BN_0.6_bimodal
+instance_n=100_105,generated,100,1000,large,13,True,13,0,13,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_105.alb,BN_0.6_peak at the bottom
+instance_n=100_114,generated,100,1000,large,13,True,13,0,13,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_114.alb,BN_0.6_peak at the bottom
+instance_n=100_120,generated,100,1000,large,14,True,14,0,14,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_120.alb,BN_0.6_peak at the bottom
+instance_n=100_137,generated,100,1000,large,50,False,50,45,50,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_137.alb,BN_0.6_peak in the middle
+instance_n=100_139,generated,100,1000,large,49,False,49,48,49,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_139.alb,BN_0.6_peak in the middle
+instance_n=100_148,generated,100,1000,large,50,False,50,47,50,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_148.alb,BN_0.6_peak in the middle
+instance_n=100_151,generated,100,1000,large,21,True,21,6,21,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_151.alb,CH_0.2_bimodal
+instance_n=100_158,generated,100,1000,large,23,True,23,9,23,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_158.alb,CH_0.2_bimodal
+instance_n=100_164,generated,100,1000,large,23,True,23,8,23,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_164.alb,CH_0.2_bimodal
+instance_n=100_185,generated,100,1000,large,15,True,15,0,15,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_185.alb,CH_0.2_peak at the bottom
+instance_n=100_187,generated,100,1000,large,13,True,13,1,13,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_187.alb,CH_0.2_peak at the bottom
+instance_n=100_200,generated,100,1000,large,15,True,15,0,15,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_200.alb,CH_0.2_peak at the bottom
+instance_n=100_202,generated,100,1000,large,60,False,52,60,60,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_202.alb,CH_0.2_peak in the middle
+instance_n=100_207,generated,100,1000,large,49,False,49,44,49,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_207.alb,CH_0.2_peak in the middle
+instance_n=100_213,generated,100,1000,large,50,False,50,49,50,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_213.alb,CH_0.2_peak in the middle
+instance_n=100_230,generated,100,1000,large,23,True,23,7,23,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_230.alb,CH_0.6_bimodal
+instance_n=100_236,generated,100,1000,large,22,True,22,6,22,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_236.alb,CH_0.6_bimodal
+instance_n=100_248,generated,100,1000,large,19,True,19,3,19,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_248.alb,CH_0.6_bimodal
+instance_n=100_257,generated,100,1000,large,12,True,12,0,12,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_257.alb,CH_0.6_peak at the bottom
+instance_n=100_261,generated,100,1000,large,14,True,14,0,14,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_261.alb,CH_0.6_peak at the bottom
+instance_n=100_270,generated,100,1000,large,13,True,13,0,13,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_270.alb,CH_0.6_peak at the bottom
+instance_n=100_288,generated,100,1000,large,51,False,51,46,51,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_288.alb,CH_0.6_peak in the middle
+instance_n=100_297,generated,100,1000,large,52,False,51,52,52,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_297.alb,CH_0.6_peak in the middle
+instance_n=100_299,generated,100,1000,large,50,False,50,43,50,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_299.alb,CH_0.6_peak in the middle
+instance_n=100_301,generated,100,1000,large,23,True,23,9,23,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_301.alb,MIXED_0.2_bimodal
+instance_n=100_309,generated,100,1000,large,21,True,21,4,21,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_309.alb,MIXED_0.2_bimodal
+instance_n=100_321,generated,100,1000,large,26,True,26,9,26,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_321.alb,MIXED_0.2_bimodal
+instance_n=100_329,generated,100,1000,large,14,True,14,0,14,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_329.alb,MIXED_0.2_peak at the bottom
+instance_n=100_333,generated,100,1000,large,15,True,15,0,15,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_333.alb,MIXED_0.2_peak at the bottom
+instance_n=100_338,generated,100,1000,large,14,True,14,0,14,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_338.alb,MIXED_0.2_peak at the bottom
+instance_n=100_353,generated,100,1000,large,50,False,49,50,50,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_353.alb,MIXED_0.2_peak in the middle
+instance_n=100_366,generated,100,1000,large,61,True,53,58,58,3,0.04918032786885246,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_366.alb,MIXED_0.2_peak in the middle
+instance_n=100_367,generated,100,1000,large,53,False,51,53,53,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_367.alb,MIXED_0.2_peak in the middle
+instance_n=100_381,generated,100,1000,large,24,True,24,9,24,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_381.alb,MIXED_0.6_bimodal
+instance_n=100_391,generated,100,1000,large,20,True,20,5,20,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_391.alb,MIXED_0.6_bimodal
+instance_n=100_394,generated,100,1000,large,22,True,22,6,22,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_394.alb,MIXED_0.6_bimodal
+instance_n=100_403,generated,100,1000,large,14,True,14,0,14,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_403.alb,MIXED_0.6_peak at the bottom
+instance_n=100_408,generated,100,1000,large,14,True,14,0,14,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_408.alb,MIXED_0.6_peak at the bottom
+instance_n=100_418,generated,100,1000,large,16,True,16,0,16,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_418.alb,MIXED_0.6_peak at the bottom
+instance_n=100_431,generated,100,1000,large,50,False,50,48,50,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_431.alb,MIXED_0.6_peak in the middle
+instance_n=100_448,generated,100,1000,large,53,False,51,53,53,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_448.alb,MIXED_0.6_peak in the middle
+instance_n=100_450,generated,100,1000,large,53,True,50,51,51,2,0.03773584905660377,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_450.alb,MIXED_0.6_peak in the middle
+instance_n=100_460,generated,100,1000,large,23,True,22,5,22,1,0.043478260869565216,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_460.alb,MIXED_0.9_bimodal
+instance_n=100_463,generated,100,1000,large,26,True,24,11,24,2,0.07692307692307693,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_463.alb,MIXED_0.9_bimodal
+instance_n=100_464,generated,100,1000,large,25,True,24,12,24,1,0.04,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_464.alb,MIXED_0.9_bimodal
+instance_n=100_486,generated,100,1000,large,15,True,15,0,15,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_486.alb,MIXED_0.9_peak at the bottom
+instance_n=100_495,generated,100,1000,large,15,True,14,0,14,1,0.06666666666666667,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_495.alb,MIXED_0.9_peak at the bottom
+instance_n=100_500,generated,100,1000,large,14,True,14,0,14,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_500.alb,MIXED_0.9_peak at the bottom
+instance_n=100_508,generated,100,1000,large,51,False,50,51,51,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_508.alb,MIXED_0.9_peak in the middle
+instance_n=100_516,generated,100,1000,large,67,False,54,67,67,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_516.alb,MIXED_0.9_peak in the middle
+instance_n=100_522,generated,100,1000,large,50,False,50,50,50,0,0.0,data/raw/otto2013/large data set_n=100/large data set_n=100/instance_n=100_522.alb,MIXED_0.9_peak in the middle
