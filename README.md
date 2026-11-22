@@ -25,12 +25,6 @@ Most academic and student assembly line balancing projects optimize a single sma
 
 ---
 
-## 🎯 Target Resume Bullet
-
-> *"Benchmarked **13 line-balancing methods** (priority rules, randomized multi-pass, CP-SAT exact model) on **395 published SALBP-1 instances** across 3 size strata; the best heuristic portfolio reached the known optimum on **$73.2\%$ of instances** in **$0.91\text{ s}$ average runtime** ($< 2\%$ of exact solver runtime); a validated discrete-event simulation of **257 balances** with identical station counts showed throughput differences of up to **$4.5\%$** ($95\%\text{ CI: } [1.0\%, 1.9\%]$) at task-time CV of $0.25$, and variability-aware secondary objectives recovered **$+1.1\%$ to $+3.2\%$** of the loss."*
-
----
-
 ## 📊 Headline Figures
 
 ### 1. Benchmark Optimality Gap Across Size Strata (RQ1 & RQ2)
